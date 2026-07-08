@@ -18,3 +18,10 @@ Thumbs.db
 
 # Logs
 *.log
+
+# Media files
+*.mp3
+*.mp4
+
+# Personal assets
+assets/temp/
